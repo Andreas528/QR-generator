@@ -1,0 +1,10 @@
+# Python virtual environments   
+.venv/
+.venv-*/
+
+# QR folder
+generated_qr/
+
+# Python cache
+__pycache__/
+*.py[cod]
